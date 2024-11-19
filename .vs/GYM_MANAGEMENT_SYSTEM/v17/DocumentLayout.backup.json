@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|c:\\users\\rruse\\source\\repos\\gym_management_system\\gym_management_system\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|c:\\users\\rruse\\source\\repos\\gym_management_system\\gym_management_system\\membersmgt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\membersmgt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|c:\\users\\rruse\\source\\repos\\gym_management_system\\gym_management_system\\membersmgt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\membersmgt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|c:\\users\\rruse\\source\\repos\\gym_management_system\\gym_management_system\\trainersmgt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\trainersmgt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\membermodule.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\membermodule.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\gym_management_system\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE33347A-C2E1-4839-BFC0-4889A1C0B8D1}|GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM.csproj|solutionrelative:gym_management_system\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberModule.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\MemberModule.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\MemberModule.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\MemberModule.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\MemberModule.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T00:52:49.369Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembersMgt.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\MembersMgt.aspx.cs",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\MembersMgt.aspx.cs",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\MembersMgt.aspx.cs",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\MembersMgt.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:44:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPassword.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\ForgotPassword.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\ForgotPassword.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\ForgotPassword.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\ForgotPassword.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T20:55:04.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\AdminDashboard.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\AdminDashboard.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T00:42:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Default.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\Default.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Default.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T14:13:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembersMgt.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\MembersMgt.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\MembersMgt.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\MembersMgt.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\MembersMgt.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-19T00:08:02.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Site.Master",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\Site.Master",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Site.Master",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T14:13:43.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainersMgt.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\TrainersMgt.aspx.cs",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\TrainersMgt.aspx.cs",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\TrainersMgt.aspx.cs",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\TrainersMgt.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:28:43.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Contact.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\Contact.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Contact.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T15:04:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Content\\bootstrap.css",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-17T15:17:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\SignUp.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\SignUp.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T20:20:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Login.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\Login.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\Login.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T20:44:53.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\ViewSwitcher.ascx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-17T14:14:25.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\About.aspx",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\About.aspx",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\About.aspx",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T14:13:11.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "GYM_MANAGEMENT_SYSTEM\\SignUp.aspx.cs",
+              "ToolTip": "C:\\Users\\rruse\\source\\repos\\GYM_MANAGEMENT_SYSTEM\\GYM_MANAGEMENT_SYSTEM\\SignUp.aspx.cs",
+              "RelativeToolTip": "GYM_MANAGEMENT_SYSTEM\\SignUp.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:39:58.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
